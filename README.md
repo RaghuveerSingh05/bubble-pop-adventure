@@ -2,14 +2,7 @@
 
 A fun and colorful bubble-popping game built with Pygame! Test your reflexes and strategy as you pop bubbles while avoiding bombs.
 
-## 🎥 Watch Gameplay
 
-<video width="600" controls>
-  <source src="videos/gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*Click play to watch the gameplay video (35 seconds)*
 
 ## ✨ Features
 
