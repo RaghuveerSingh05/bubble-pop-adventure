@@ -37,7 +37,7 @@ A fun and colorful bubble-popping game built with Pygame! Test your reflexes and
 ##  Installation
 
 ### Prerequisites
-- Python 3.7 or higher
+- Python 3.12 or higher
 - pip (Python package manager)
 
 ### Steps
